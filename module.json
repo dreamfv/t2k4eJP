@@ -2,7 +2,7 @@
   "id": "t2k4eJP",
   "title": "トワイライト2000 第4版 日本語化MOD",
   "description": "FoundryVTTのトワイライト2000 第4版システムに日本語を追加します。",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "compatibility": {
     "minimum": "11",
     "verified": "11"
