@@ -1,0 +1,29 @@
+{
+    "id": "t2k4eJP",
+    "title": "トワイライト2000 第4版 日本語化MOD",
+    "description": "FoundryVTTのトワイライト2000 第4版システムに日本語を追加します。",
+    "version": "0.0.3",
+    "compatibility": {
+      "minimum": "11",
+      "verified": "11"
+    },
+    "authors": [
+      {
+      "name": "dreamfv"
+      }
+    ],
+    "scripts": [],
+    "styles": [],
+    "packs": [],
+  
+    "languages": [{
+      "lang": "ja",
+      "name": "日本語",
+      "path": "ja.json"
+    }],
+  
+    "url": "https://github.com/dreamfv/t2k4eJP",
+    "manifest": "https://raw.githubusercontent.com/dreamfv/t2k4eJP/main/module.json",
+    "download": "https://github.com/dreamfv/t2k4eJP/archive/refs/heads/main.zip"
+
+}
